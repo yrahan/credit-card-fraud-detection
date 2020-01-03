@@ -127,3 +127,6 @@ dmypy.json
 # data
 *.csv
 *.zip
+
+# graphviz
+.dot
